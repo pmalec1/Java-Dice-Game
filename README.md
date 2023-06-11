@@ -5,7 +5,7 @@
     $ cd out
     $ java Main
 ## Project organization
-- *dokumentacion/* - [in progress]
+- *documentacion/* - [in progress]
 - *images/* - directory containing GUI image files
 - *out/* - directory containing compilation result files
 - *src/* - directory containing source files
