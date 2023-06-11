@@ -1,12 +1,16 @@
-# Dice Game
-
-## Członkowie zespołu:
-- Piotr Malec  
-- Jakub Wysocki  
-## Kompilacja i uruchomienie  
+# Dice Game / Gra w kości 
+[ ENG BELLOW ]
+## Kompilacja i uruchomienie/Compilation and run
     $ javac -d ./out/ ./src/*.java
     $ cd out
     $ java Main
+## Project organization
+- *dokumentacion/* - [in progress]
+- *images/* - directory containing GUI image files
+- *out/* - directory containing compilation result files
+- *src/* - directory containing source files
+- *scores_log.txt* - directory containing sroces logs froem each turn
+
 
 ## Organizacja projetku  
 - *dokumentacja/* - dokumentacja projektu  
